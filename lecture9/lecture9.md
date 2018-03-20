@@ -20,7 +20,7 @@ MIT线性代数课程精细笔记\[第二课\]笔记见[MIT线性代数课程精
 
 假设 m\*n 的矩阵 A：
 
-![](https://pic1.zhimg.com/80/v2-eeeb8d131ffce2a019faa2141a2c5adc_hd.jpg)
+![](v2-eeeb8d131ffce2a019faa2141a2c5adc_hd.jpg)
 
 显然，n &gt; m，以这样的矩阵 A 构成的方程 Ax = 0，此时未知数𝑥 𝑛 的个数比 方程的个数多。未知数一共 n 个，方程一共 m 个。
 
@@ -28,17 +28,17 @@ MIT线性代数课程精细笔记\[第二课\]笔记见[MIT线性代数课程精
 
 **2.2 线性无关与线性相关**
 
-![](https://pic4.zhimg.com/80/v2-0c8e07417c098e273d7ebcbdcb8c9ab8_hd.jpg)
+![](v2-0c8e07417c098e273d7ebcbdcb8c9ab8_hd.jpg)
 
-![](https://pic1.zhimg.com/80/v2-b74c7c06a1cea01b90383e121601f7fd_hd.jpg)
+![](v2-b74c7c06a1cea01b90383e121601f7fd_hd.jpg)
 
 举几个例子感受一下上面的概念：
 
-![](https://pic4.zhimg.com/80/v2-8dee995d27149441d47506278dd89e11_hd.jpg)
+![](v2-8dee995d27149441d47506278dd89e11_hd.jpg)
 
-![](https://pic3.zhimg.com/80/v2-761e0bcf425a45c1514ff263452b82b4_hd.jpg)
+![](v2-761e0bcf425a45c1514ff263452b82b4_hd.jpg)
 
-![](https://pic4.zhimg.com/80/v2-9e71aef631f6f879cc0b39c96ca66233_hd.jpg)
+![](v2-9e71aef631f6f879cc0b39c96ca66233_hd.jpg)
 
 **2.3 零空间的作用**
 
@@ -61,15 +61,15 @@ MIT线性代数课程精细笔记\[第二课\]笔记见[MIT线性代数课程精
 
 **2.4 生成空间**
 
-![](https://pic1.zhimg.com/80/v2-3761acbb4be35a18c4723a7560bce3f5_hd.jpg)
+![](v2-3761acbb4be35a18c4723a7560bce3f5_hd.jpg)
 
 ## **三、基**
 
-![](https://pic1.zhimg.com/80/v2-92dda5c93e5c0ed2be3eaa0efd6ae4e9_hd.jpg)
+![](v2-92dda5c93e5c0ed2be3eaa0efd6ae4e9_hd.jpg)
 
-![](https://pic4.zhimg.com/80/v2-8ac880b8887d8df44526891e85c53655_hd.jpg)
+![](v2-8ac880b8887d8df44526891e85c53655_hd.jpg)
 
-![](https://pic3.zhimg.com/80/v2-f3c71cec3bfdd3c12453d7f70aa561c9_hd.jpg)
+![](v2-f3c71cec3bfdd3c12453d7f70aa561c9_hd.jpg)
 
 ## **四.维数**
 
@@ -81,19 +81,19 @@ MIT线性代数课程精细笔记\[第二课\]笔记见[MIT线性代数课程精
 
 这一节学习了很多概念问题，我们通过一道例题回顾一下
 
-![](https://pic3.zhimg.com/80/v2-140c425e4fcf0d3046ab9a6e2c02e6f3_hd.jpg)
+![](v2-140c425e4fcf0d3046ab9a6e2c02e6f3_hd.jpg)
 
 （2）找出A列空间的一个基
 
 从 A 的结构看来：
 
-![](https://pic3.zhimg.com/80/v2-4683c3c76963b8866030a76e9a7a9db2_hd.jpg)
+![](v2-4683c3c76963b8866030a76e9a7a9db2_hd.jpg)
 
 这下我们就将矩阵的秩与列空间的维数联系了起来，而更重要的是，我们知 道了列空间的维数，那么在这个列空间中随便找两个线性无关的向量，它们就可 以构成一组基，这组基就可以生成这个列空间。
 
 （3\)A对应零空间的维数为多少？
 
-![](https://pic1.zhimg.com/80/v2-334aef5bc420745809dcdba6cc6319f8_hd.jpg)
+![](v2-334aef5bc420745809dcdba6cc6319f8_hd.jpg)
 
 ## **五.学习感悟**
 
