@@ -14,7 +14,7 @@ MIT线性代数课程精细笔记\[第二课\]笔记见[MIT线性代数课程精
 
 **对于一个 m\*n 矩阵 A 来说，以下四个基本空间是其基础。**
 
-![](https://pic4.zhimg.com/80/v2-57a01f0a640b3fd69e6493e07d601fa1_hd.jpg)
+![](v2-57a01f0a640b3fd69e6493e07d601fa1_hd.jpg)
 
 **2.1 四个基本空间的维数与基**
 
@@ -32,21 +32,21 @@ MIT线性代数课程精细笔记\[第二课\]笔记见[MIT线性代数课程精
 
 A 的行空间可以化为 ![](https://www.zhihu.com/equation?tex=A%5ET+ "A^T ") 的列空间。但我们这里使用的方法是直接对 A 的行 向量进行变换（其实一样），最后行空间的维数也是秩数 r。
 
-![](https://pic2.zhimg.com/80/v2-39a8346ac9dc39bf0eb78b603c8525fa_hd.jpg)
+![](v2-39a8346ac9dc39bf0eb78b603c8525fa_hd.jpg)
 
 **（4\)左零空间**
 
-![](https://pic2.zhimg.com/80/v2-074b64857e173c7b8783a3aa839262eb_hd.jpg)
+![](v2-074b64857e173c7b8783a3aa839262eb_hd.jpg)
 
-![](https://pic2.zhimg.com/80/v2-4d5b78eabcc05d8799ca5c559c152e6f_hd.jpg)
+![](v2-4d5b78eabcc05d8799ca5c559c152e6f_hd.jpg)
 
-![](https://pic1.zhimg.com/80/v2-81dad1c56e905925b13597d1302e84a5_hd.jpg)
+![](v2-81dad1c56e905925b13597d1302e84a5_hd.jpg)
 
-![](https://pic1.zhimg.com/80/v2-c854d2462fdcf14dda527e13ac4389e6_hd.jpg)
+![](v2-c854d2462fdcf14dda527e13ac4389e6_hd.jpg)
 
 **2.2 四个基本空间图像：**
 
-![](https://pic4.zhimg.com/80/v2-fa9f071e001fd834c9b628131ecbe176_hd.jpg)
+![](v2-fa9f071e001fd834c9b628131ecbe176_hd.jpg)
 
 ## **三．矩阵空间**
 
@@ -60,7 +60,7 @@ A 的行空间可以化为 ![](https://www.zhihu.com/equation?tex=A%5ET+ "A^T ")
 
 而很明显，上三角矩阵与对称矩阵的交集为对角矩阵\(diag\)。深入研究对 角矩阵，就要给出它的基，
 
-![](https://pic3.zhimg.com/80/v2-d2f26f304301614911ce4c7bf40779bf_hd.jpg)
+![](v2-d2f26f304301614911ce4c7bf40779bf_hd.jpg)
 
 ## **四.学习感悟**
 
