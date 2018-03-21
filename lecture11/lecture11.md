@@ -12,37 +12,37 @@ MIT线性代数课程精细笔记\[第二课\]笔记见[基本子空间\|MIT线�
 
 ## **二、矩阵空间**
 
-![](https://pic2.zhimg.com/80/v2-4a1586d7e04f774d5b6c70887ce911d2_hd.jpg)
+![](v2-4a1586d7e04f774d5b6c70887ce911d2_hd.jpg)
 
 **2.1 基与维数**
 
-![](https://pic2.zhimg.com/80/v2-ecac43c07bd4ed19150327a67e9d3f8c_hd.jpg)
+![](v2-ecac43c07bd4ed19150327a67e9d3f8c_hd.jpg)
 
-![](https://pic1.zhimg.com/80/v2-f256dbcb2ff1caef08b8d6123b2b174a_hd.jpg)
+![](v2-f256dbcb2ff1caef08b8d6123b2b174a_hd.jpg)
 
 **2.2 微分方程**
 
-![](https://pic1.zhimg.com/80/v2-4feb83d86a81e2ae58fc77f68a56f08e_hd.jpg)
+![](v2-4feb83d86a81e2ae58fc77f68a56f08e_hd.jpg)
 
 ## **三．秩一矩阵**
 
-![](https://pic2.zhimg.com/80/v2-00fe31fabca5bcdaefac0cd8a321d9c4_hd.jpg)
+![](v2-00fe31fabca5bcdaefac0cd8a321d9c4_hd.jpg)
 
 秩一矩阵的另外一个优点是它可以“搭建”其他矩阵，比如秩为 4 的矩阵， 通过四个秩一矩阵就能搭建出来。具体过程类似于矩阵乘法中的“列乘行”形式， 通过一列一行搭出一个矩阵。
 
 **3.2 空间角度解释同秩矩阵**
 
-![](https://pic3.zhimg.com/80/v2-b30caa67240ecc191b5da1339951feb7_hd.jpg)
+![](v2-b30caa67240ecc191b5da1339951feb7_hd.jpg)
 
 **3.3 子空间的转化**
 
 我们通过这样一个例子再加深一下对子空间的印象：
 
-![](https://pic1.zhimg.com/80/v2-c52ac6780d15848e87619674240b8e3e_hd.jpg)
+![](v2-c52ac6780d15848e87619674240b8e3e_hd.jpg)
 
 因此维度为 n-r =3，S 的零空间是三维空间。其基为 Av = 0 的三个特解
 
-![](https://pic3.zhimg.com/80/v2-6991546e795902e747db81e1a435d9b5_hd.jpg)
+![](v2-6991546e795902e747db81e1a435d9b5_hd.jpg)
 
 ## **四．小世界图**
 
@@ -50,7 +50,7 @@ MIT线性代数课程精细笔记\[第二课\]笔记见[基本子空间\|MIT线�
 
 **有这样一个图：**
 
-![](https://pic2.zhimg.com/80/v2-567e6fbfcd61a55ce8bcfdc4d4c304ee_hd.jpg)
+![](v2-567e6fbfcd61a55ce8bcfdc4d4c304ee_hd.jpg)
 
 这个图包括五个节点和六条边，可以用一个 5\*6 的矩阵来表示其中的所有信 息。具体内容我们下节课再说。
 

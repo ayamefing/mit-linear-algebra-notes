@@ -18,13 +18,13 @@ MIT线性代数课程精细笔记\[第二十二课\]笔记见
 
 **解决微分方程问题重点在于其流程，我们通过一道例题来介绍本部分内容。**
 
-![](https://pic1.zhimg.com/80/v2-232393151c6df100d7b5813ec105662a_hd.jpg)
+![](v2-232393151c6df100d7b5813ec105662a_hd.jpg)
 
-![](https://pic2.zhimg.com/80/v2-817a7355cb18ca2c84082bd0c93be0cc_hd.jpg)
+![](v2-817a7355cb18ca2c84082bd0c93be0cc_hd.jpg)
 
-![](https://pic1.zhimg.com/80/v2-c7611f2785cf0fb0ead0fa40563d5f24_hd.jpg)
+![](v2-c7611f2785cf0fb0ead0fa40563d5f24_hd.jpg)
 
-![](https://pic2.zhimg.com/80/v2-864067049a6411dcbfd4eec5289b88b9_hd.jpg)
+![](v2-864067049a6411dcbfd4eec5289b88b9_hd.jpg)
 
 不难看出，投影到实数轴，只有实数部分 a 决定正负性，而虚部 b 的作用是 在另一条轴上指明方向，所以不影响我们的判断。
 
@@ -36,21 +36,21 @@ MIT线性代数课程精细笔记\[第二十二课\]笔记见
 
 **3.1 解耦**
 
-![](https://pic4.zhimg.com/80/v2-f6d93004566cfdeb1cae3a4e02451e03_hd.jpg)
+![](v2-f6d93004566cfdeb1cae3a4e02451e03_hd.jpg)
 
-![](https://pic3.zhimg.com/80/v2-5114dc03e5e3ff6a53f9a4adefa89eea_hd.jpg)
+![](v2-5114dc03e5e3ff6a53f9a4adefa89eea_hd.jpg)
 
-![](https://pic2.zhimg.com/80/v2-cae7ce3364c2392597832cbd75bbb294_hd.jpg)
+![](v2-cae7ce3364c2392597832cbd75bbb294_hd.jpg)
 
-![](https://pic2.zhimg.com/80/v2-8841eeee4c525fcc76cf9300bb80f067_hd.jpg)
+![](v2-8841eeee4c525fcc76cf9300bb80f067_hd.jpg)
 
 **3.3 矩阵指数**
 
-![](https://pic1.zhimg.com/80/v2-e59b88fbf14b7f0c65d7a510629b3b11_hd.jpg)
+![](v2-e59b88fbf14b7f0c65d7a510629b3b11_hd.jpg)
 
 ## **四．二阶微分方程的解**
 
-![](https://pic1.zhimg.com/80/v2-bf1584d00ebc45ff6a7e53f0ead7d08d_hd.jpg)
+![](v2-bf1584d00ebc45ff6a7e53f0ead7d08d_hd.jpg)
 
 b，c，d，e 都是方程中的系数，而且主对角线上的元素下的元素都是 0。这样
 

@@ -28,7 +28,7 @@ MIT线性代数课程精细笔记\[第二十课\]笔记见
 
 特别注意下特征值为 0 的情况。此时会有：AX = 0。我们可以发现 A 如果是 不可逆矩阵，则正好满足此性质。
 
-![](https://pic1.zhimg.com/80/v2-a9ddb04cc7690966e50d6ee03039ac6f_hd.jpg)
+![](v2-a9ddb04cc7690966e50d6ee03039ac6f_hd.jpg)
 
 1. 如果对任意平面上的 
    ![](https://www.zhihu.com/equation?tex=x_{1} "x\_{1}")
@@ -49,27 +49,27 @@ MIT线性代数课程精细笔记\[第二十课\]笔记见
 
 接下来我们给出特征值，特征向量的一般求解方法。我们对方程进行一些处理：
 
-![](https://pic1.zhimg.com/80/v2-5e2da3c61d7c661f0c857309421a637a_hd.jpg)
+![](v2-5e2da3c61d7c661f0c857309421a637a_hd.jpg)
 
 如上即为求解特征值的步骤。n 阶一共应该有 n 个特征值。
 
 求解特征向量只需要取求解出的一个特征值λ，此时 A-λI 是一个不可逆矩 阵，利用\(A-λI\)X = 0 求解零空间中的向量即为矩阵的特征向量。
 
-![](https://pic2.zhimg.com/80/v2-a377d037f3d189b09e4cc5b85affdde4_hd.jpg)
+![](v2-a377d037f3d189b09e4cc5b85affdde4_hd.jpg)
 
-![](https://pic3.zhimg.com/80/v2-feb807bf66306352f8b1e8e87d045220_hd.jpg)
+![](v2-feb807bf66306352f8b1e8e87d045220_hd.jpg)
 
-![](https://pic3.zhimg.com/80/v2-e640b85a4e502ef81675bc422522a2e8_hd.jpg)
+![](v2-e640b85a4e502ef81675bc422522a2e8_hd.jpg)
 
 **2.3 特殊情况说明**
 
 我们通过两个例题说明下这部分求解中可能遇到的特殊情况。
 
-![](https://pic4.zhimg.com/80/v2-b4bcbcbe7d7da14fa8ded439e24a183d_hd.jpg)
+![](v2-b4bcbcbe7d7da14fa8ded439e24a183d_hd.jpg)
 
 启示：我们发现 Q 是反对称矩阵（ ![](https://www.zhihu.com/equation?tex=A^{T}%3D-A "A^{T}=-A") ），而我们之前求的都是对称矩阵的 特征值，也就是说，对称矩阵的特征值为实数，而反对称矩阵的特征值为虚数， 这是两个极端。
 
-![](https://pic4.zhimg.com/80/v2-0770051e39ce168a1c3acfd0a034fade_hd.jpg)
+![](v2-0770051e39ce168a1c3acfd0a034fade_hd.jpg)
 
 思路:
 

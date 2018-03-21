@@ -18,12 +18,12 @@ MIT线性代数课程精细笔记\[第四课\]笔记见[MIT线性代数课程精
 
 那么对于 n 阶矩阵来说，有多少个置换矩阵呢？答案是：n!种，也就是将单 位矩阵 I 各行重新排列后所有可能的情况数量。
 
-![](https://pic1.zhimg.com/80/v2-e175aa86da62bb944c5daf4a89fdce09_hd.jpg)
+![](v2-e175aa86da62bb944c5daf4a89fdce09_hd.jpg)
 
   
 
 
-![](https://pic2.zhimg.com/80/v2-a63d318ed100ae3b5e7f50108b4c53be_hd.jpg)
+![](v2-a63d318ed100ae3b5e7f50108b4c53be_hd.jpg)
 
 **2.2 置换矩阵的使用**
 
@@ -42,13 +42,13 @@ PA = LU
   
 
 
-![](https://pic4.zhimg.com/80/v2-f65847fb181d8f85e717198cc154a51c_hd.jpg)
+![](v2-f65847fb181d8f85e717198cc154a51c_hd.jpg)
 
 **3.2 对称阵**
 
 对称矩阵，顾名思义，就是主对角线两侧元素对应相等的矩阵。或者说，对 矩阵 A，如果有：
 
-![](https://pic4.zhimg.com/80/v2-b8fa8a5bd98c7547fc64b6739e15ec97_hd.jpg)
+![](v2-b8fa8a5bd98c7547fc64b6739e15ec97_hd.jpg)
 
 ## **四、向量空间与子空间**
 
@@ -56,17 +56,17 @@ PA = LU
 
 首先明确“向量空间”的概念，它表示一整个空间的向量，但是要注意，不 是任意向量的集合都能被称为向量空间。所谓的向量空间，必须满足一定规则， 就是：该空间对线性运算（相加，数乘）封闭。类似：v → 3v 或 v，w → v+w 运算，若得到的 3v 或者 v+w 都仍然在此空间中，那么这个空间可称为向量空间。
 
-![](https://pic1.zhimg.com/80/v2-9e01cf010846fbe4dcf2cfcd05de9c8a_hd.jpg)
+![](v2-9e01cf010846fbe4dcf2cfcd05de9c8a_hd.jpg)
 
   
 
 
-![](https://pic2.zhimg.com/80/v2-6faeab335f94ac2e0b300ab05897d683_hd.jpg)
+![](v2-6faeab335f94ac2e0b300ab05897d683_hd.jpg)
 
   
 
 
-![](https://pic2.zhimg.com/80/v2-115656b995e6240c357fe7a4a07e1c4c_hd.jpg)
+![](v2-115656b995e6240c357fe7a4a07e1c4c_hd.jpg)
 
 很明显，这部分空间无法满足“线性组合仍在空间中”的要求，比如数乘运算 时，随便取个负数，向量就跑到第三象限去，脱离 D 空间范围内了。
 
@@ -74,28 +74,28 @@ PA = LU
 
 上面的反例已经证明了。在向量空间里随便取其一部分，很可能得到的不是 向量空间。那如果我们取向量空间的一部分，将其打乱，构成的有没有可能是向 量空间呢？
 
-![](https://pic3.zhimg.com/80/v2-634a84c773e9488b0b5b265983730d77_hd.jpg)
+![](v2-634a84c773e9488b0b5b265983730d77_hd.jpg)
 
   
 
 
-![](https://pic4.zhimg.com/80/v2-5e1f00862a0c89cd7e5106d9eaf2cd80_hd.jpg)
+![](v2-5e1f00862a0c89cd7e5106d9eaf2cd80_hd.jpg)
 
 **4.3 列空间简要介绍**
 
 上面介绍的子空间都是基于已知的图像来寻找的，接下来我们来通过具体的 矩阵来构造出一个子空间，比如：列向量构造出的列空间。
 
-![](https://pic1.zhimg.com/80/v2-7cf3fd41df46ac6a5b5e5970e5b0e57f_hd.jpg)
+![](v2-7cf3fd41df46ac6a5b5e5970e5b0e57f_hd.jpg)
 
   
 
 
-![](https://pic2.zhimg.com/80/v2-bb429b20140a1b6cbd5d1202a55121e1_hd.jpg)
+![](v2-bb429b20140a1b6cbd5d1202a55121e1_hd.jpg)
 
   
 
 
-![](https://pic3.zhimg.com/80/v2-5db1fa993d8bc58d106060b1558db849_hd.jpg)
+![](v2-5db1fa993d8bc58d106060b1558db849_hd.jpg)
 
 这里还要注意列向量之间的性质，如果列向量之间就是共线的，那么其列空 间就是一条过原点的直线。
 

@@ -12,21 +12,21 @@ MIT线性代数课程精细笔记\[第十五课\]笔记见[【MIT线代十五课
 
 ## **二、投影矩阵回顾**
 
-![](https://pic3.zhimg.com/80/v2-2f6045cb8be7e35b2e71c25fad8fc862_hd.jpg)
+![](v2-2f6045cb8be7e35b2e71c25fad8fc862_hd.jpg)
 
 所以，投影矩阵 P 与一向量 b 的乘积可以理解为：将 b 向量投影到它在列 空间中的最近一点上，类似于上节课中，将 p 投影到平面上的过程。
 
 那么这样两个问题的答案就很明显了：
 
-![](https://pic1.zhimg.com/80/v2-e33f234c10d908197909a51fdad166bf_hd.jpg)
+![](v2-e33f234c10d908197909a51fdad166bf_hd.jpg)
 
-![](https://pic2.zhimg.com/80/v2-57574093010226a52130f66daf6e9d2e_hd.jpg)
+![](v2-57574093010226a52130f66daf6e9d2e_hd.jpg)
 
 通过上面两个问题，我们可以看出来，一个向量 b 总有两个分量，一个分量 在 A 的列空间中，另一个分量垂直于 A 的列空间。而投影矩阵的作用就是保留列 空间中的那个分量，拿掉垂直于列空间的分量。
 
 可以通过一幅图来表示这个关系：
 
-![](https://pic2.zhimg.com/80/v2-30dcb7f1cf65106f876e531962705fc2_hd.jpg)
+![](v2-30dcb7f1cf65106f876e531962705fc2_hd.jpg)
 
 ## **三、最小二乘法**
 
@@ -40,33 +40,33 @@ MIT线性代数课程精细笔记\[第十五课\]笔记见[【MIT线代十五课
 
 讲解：
 
-![](https://pic3.zhimg.com/80/v2-5dd2ebb46ccd0e310fe096041d704432_hd.jpg)
+![](v2-5dd2ebb46ccd0e310fe096041d704432_hd.jpg)
 
-![](https://pic3.zhimg.com/80/v2-69031a01ce364550bbda5cef2885ed07_hd.jpg)
+![](v2-69031a01ce364550bbda5cef2885ed07_hd.jpg)
 
-![](https://pic1.zhimg.com/80/v2-9ac109bed8029f8a629d005743ba0c21_hd.jpg)
+![](v2-9ac109bed8029f8a629d005743ba0c21_hd.jpg)
 
-![](https://pic2.zhimg.com/80/v2-943eb2247c3729d7fbf6e71c56b46ce9_hd.jpg)
+![](v2-943eb2247c3729d7fbf6e71c56b46ce9_hd.jpg)
 
 本质就是将 b 投影到 A 列空间中，用还记得上面说过，投影意义是将 b 向 量投影到它在列空间中的最近一点上。也就是说，这个过程是将三个点投到满足 方程条件的最近的一条直线上去。
 
-![](https://pic1.zhimg.com/80/v2-990efab6623e8e75e071c8a7480708b1_hd.jpg)
+![](v2-990efab6623e8e75e071c8a7480708b1_hd.jpg)
 
 **3.2 性质讨论**
 
-![](https://pic3.zhimg.com/80/v2-8f86a9ec5217cf713298f881a67b5064_hd.jpg)
+![](v2-8f86a9ec5217cf713298f881a67b5064_hd.jpg)
 
 **3.3 结论证明**
 
-![](https://pic1.zhimg.com/80/v2-3c56f3760ae50b9762e81d8f1f76e2d9_hd.jpg)
+![](v2-3c56f3760ae50b9762e81d8f1f76e2d9_hd.jpg)
 
-![](https://pic4.zhimg.com/80/v2-089083fc93c9e30090c29a0961fe5fde_hd.jpg)
+![](v2-089083fc93c9e30090c29a0961fe5fde_hd.jpg)
 
-![](https://pic2.zhimg.com/80/v2-36e7a67bd0f3bd688ea2fbb04e597026_hd.jpg)
+![](v2-36e7a67bd0f3bd688ea2fbb04e597026_hd.jpg)
 
 ## **四、标准正交基**
 
-![](https://pic4.zhimg.com/80/v2-2e2a810fcbde0725e9462b9b772d32ae_hd.jpg)
+![](v2-2e2a810fcbde0725e9462b9b772d32ae_hd.jpg)
 
 ## **五.学习感悟**
 

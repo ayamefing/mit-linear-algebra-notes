@@ -14,45 +14,45 @@ MIT线性代数课程精细笔记\[第三课\]笔记见[MIT线性代数课程精
 
 ## **二、逆矩阵性质补充**
 
-![](https://pic3.zhimg.com/80/v2-e562b550af5eb7cdcc35e560ebe479f8_hd.jpg)
+![](v2-e562b550af5eb7cdcc35e560ebe479f8_hd.jpg)
 
 看起来就像是沿着左上角开始的一条对角线翻折了一样。
 
-![](https://pic4.zhimg.com/80/v2-2d848da78b09b6820d8ad37344cf681c_hd.jpg)
+![](v2-2d848da78b09b6820d8ad37344cf681c_hd.jpg)
 
   
 
 
-![](https://pic1.zhimg.com/80/v2-71ce6cbecf5b31b52709068aa8ecbb4b_hd.jpg)
+![](v2-71ce6cbecf5b31b52709068aa8ecbb4b_hd.jpg)
 
   
 
 
-![](https://pic1.zhimg.com/80/v2-4751f749667de463620e36425489e044_hd.jpg)
+![](v2-4751f749667de463620e36425489e044_hd.jpg)
 
   
 
 
-![](https://pic2.zhimg.com/80/v2-9df6b4af1e21e7ae06473b4c1679c7c5_hd.jpg)
+![](v2-9df6b4af1e21e7ae06473b4c1679c7c5_hd.jpg)
 
   
 
 
-![](https://pic4.zhimg.com/80/v2-c6ed9e7f520023729b1aa09925b6005f_hd.jpg)
+![](v2-c6ed9e7f520023729b1aa09925b6005f_hd.jpg)
 
 ## **三、A 的 LU 分解**
 
-![](https://pic4.zhimg.com/80/v2-52a92fd4185eaea16ab8251e98b0b9a0_hd.jpg)
+![](v2-52a92fd4185eaea16ab8251e98b0b9a0_hd.jpg)
 
   
 
 
-![](https://pic4.zhimg.com/80/v2-967eb48168ac8a0102728581e3efc720_hd.jpg)
+![](v2-967eb48168ac8a0102728581e3efc720_hd.jpg)
 
   
 
 
-![](https://pic2.zhimg.com/80/v2-06a3334b5bf22b62e1cbfdac49533a0a_hd.jpg)
+![](v2-06a3334b5bf22b62e1cbfdac49533a0a_hd.jpg)
 
 这就给了我们启示，在使用 A = LU 分解矩阵的时候，我们只需要从 U 入 手，反过来考虑，看如何通过行变换可以将上三角矩阵 U 变为 A，然后再将单 位阵按此形式变化，就得到了 L 矩阵。这个性质也是 A = LU 形式分解矩阵的 最大优点，我们甚至不需要知道类似的值到底是什么，我们只需要知道变换形式， 即可求出 L，写出 A = LU 等式。
 
@@ -63,12 +63,12 @@ MIT线性代数课程精细笔记\[第三课\]笔记见[MIT线性代数课程精
   
 
 
-![](https://pic3.zhimg.com/80/v2-5b59c69b94fc9ad981fb95db20603df8_hd.jpg)
+![](v2-5b59c69b94fc9ad981fb95db20603df8_hd.jpg)
 
   
 
 
-![](https://pic4.zhimg.com/80/v2-3e6766ca84a0dc034bcfaa573d8c0b9d_hd.jpg)
+![](v2-3e6766ca84a0dc034bcfaa573d8c0b9d_hd.jpg)
 
 ## **四、置换矩阵**
 
@@ -79,7 +79,7 @@ MIT线性代数课程精细笔记\[第三课\]笔记见[MIT线性代数课程精
   
 
 
-![](https://pic1.zhimg.com/80/v2-85a0aa24c67b85fab2648118e2d4ec13_hd.jpg)
+![](v2-85a0aa24c67b85fab2648118e2d4ec13_hd.jpg)
 
 注：
 
